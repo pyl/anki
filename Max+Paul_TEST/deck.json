@@ -132,6 +132,26 @@
             "guid": "IC@][o.+/z",
             "note_model_uuid": "14e8eb94-142b-11ec-a130-1e00c32e9f7a",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bro",
+                "srsly ?"
+            ],
+            "guid": "tP~]8qkjgG",
+            "note_model_uuid": "14e8eb94-142b-11ec-a130-1e00c32e9f7a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is ethan's name?",
+                "Ethan"
+            ],
+            "guid": "xv!_EmDK8R",
+            "note_model_uuid": "14e8eb94-142b-11ec-a130-1e00c32e9f7a",
+            "tags": []
         }
     ]
 }
